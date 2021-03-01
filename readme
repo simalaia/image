@@ -1,0 +1,1 @@
+This was a fun project, an image creation library in Chez Scheme.  It's not entirely complete as the complexity of it got rather overwhelming (and I couldn't work out how to compose images), but it's surprisingly complete.  One of my few larger scale implementations.
